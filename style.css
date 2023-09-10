@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+.output {
+    margin-top: 20px;
+}
+
+#output-image {
+    max-width: 100%;
+}
+
+#output-label {
+    font-size: 18px;
+    font-weight: bold;
+}
